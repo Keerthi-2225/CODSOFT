@@ -1,1 +1,74 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keerthirajesh Restaurant Menu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>KR</h1> <!-- Placeholder logo text -->
+        </div>
+        <h1>Keerthirajesh Restaurant</h1>
+    </header>
+    <main>
+        <section class="menu-category">
+            <h2>Appetizers</h2>
+            <div class="menu-item">
+                <div class="item-details">
+                    <h3>Bruschetta</h3>
+                    <p>Toasted bread with tomato, garlic, and basil.</p>
+                    <span class="price">$8.99</span>
+                </div>
+            </div>
+            <div class="menu-item">
+                <div class="item-details">
+                    <h3>Spring Rolls</h3>
+                    <p>Crispy rolls filled with vegetables and served with a dipping sauce.</p>
+                    <span class="price">$7.99</span>
+                </div>
+            </div>
+        </section>
+        <section class="menu-category">
+            <h2>Main Courses</h2>
+            <div class="menu-item">
+                <div class="item-details">
+                    <h3>Spaghetti Carbonara</h3>
+                    <p>Pasta with creamy egg sauce, pancetta, and Parmesan cheese.</p>
+                    <span class="price">$12.99</span>
+                </div>
+            </div>
+            <div class="menu-item">
+                <div class="item-details">
+                    <h3>Grilled Chicken</h3>
+                    <p>Juicy grilled chicken served with seasonal vegetables.</p>
+                    <span class="price">$14.99</span>
+                </div>
+            </div>
+        </section>
+        <section class="menu-category">
+            <h2>Desserts</h2>
+            <div class="menu-item">
+                <div class="item-details">
+                    <h3>Cheesecake</h3>
+                    <p>Classic cheesecake with a graham cracker crust and berry topping.</p>
+                    <span class="price">$6.99</span>
+                </div>
+            </div>
+            <div class="menu-item">
+                <div class="item-details">
+                    <h3>Chocolate Mousse</h3>
+                    <p>Rich and creamy chocolate mousse with a hint of coffee.</p>
+                    <span class="price">$5.99</span>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Keerthirajesh Restaurant. All rights reserved.</p>
+    </footer>
+</body>
+</html>
